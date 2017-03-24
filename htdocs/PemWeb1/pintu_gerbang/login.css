@@ -1,0 +1,104 @@
+*{
+  padding: 0px;
+  margin: 0px;
+}
+
+.gambar {
+  background-color: rgba(100, 100, 100 ,0.9);
+  height: 330px;
+  width: 800px;
+  margin-left: 350px;
+  margin-top: 200px;
+  border: 2px solid rgba(170, 170, 170 ,1);
+  border-radius: 20px;
+}
+
+.gambar1 {
+  background-color: rgba(100, 100, 100 ,0.9);
+  height: 600px;
+  width: 800px;
+  margin-left: 350px;
+  margin-top: 80px;
+  border: 2px solid rgba(170, 170, 170 ,1);
+  border-radius: 20px;
+}
+
+#utama {
+background-image: url("black-wallpaper-1080p_052246_13.jpg");
+background-size: cover;
+padding: 3px;
+background-position: left top;
+height: 748px;
+}
+
+.header_isi {
+  width: 335px;
+  height: 230px;
+  padding: 180px 0px 90px 480px;
+}
+
+
+img {
+  width: 250px;
+  height: 100px;
+  margin-left: 45px;
+  margin-top: 15px;
+}
+
+.login_regis {
+  height: 40px;
+  width: 400px;
+  text-align: center;
+  color: white;
+  font-size: 17px;
+  border-radius: 8px;
+  background-color: rgba(225, 255, 255, 0.2);
+  border: 3px solid white;
+  margin-left: 0px;
+  margin-top: 0px;
+}
+
+.tombol_login {
+  width: 200px;
+  height: 30px;
+  text-align: center;
+  background-color: black;
+  color: white;
+  font-size: 17px;
+  border: 2px solid white;
+  border-radius: 8px;
+  margin-top: 5px;
+  margin-left: 0px;
+}
+
+.chexbox {
+  font-size: 15px;
+  color: white;
+  margin-left: 45px;
+  margin-top: 10px;
+}
+
+.login_regis:hover {
+  border: 3px solid #fff;
+}
+
+.tombol_login:hover {
+  background-color: white;
+  color: #0288D1;
+  border: 2px solid white;
+}
+
+.copyright {
+  margin-top: 20px;
+  color: white;
+  font-size: 17px;
+  margin-left: 10px;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+.copyright a {
+  color: #0288D1;
+} 
